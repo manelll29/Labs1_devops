@@ -1,2 +1,6 @@
-# Labs1_devops
-ing4 app BDA lab devops
+# Labs 1
+
+Group members : 
+- CISSE Mborika 
+- SALAH Manel
+
