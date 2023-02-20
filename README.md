@@ -1,7 +1,7 @@
 # Labs 1
 
-Group members : 
-- CISSE Mborika 
+Group members :  
+- cisse mbborika
 - SALAH Manel
 
 My commit is better. Mborika XOXO
