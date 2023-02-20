@@ -1,7 +1,7 @@
 # Labs 1
 
 Group members : 
-- CISSE Mborika 
+- CISSE borika 
 - SALAH Manel
 
 Promotion:
